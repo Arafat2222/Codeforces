@@ -8,3 +8,5 @@
  [Forbidden Integer](https://codeforces.com/contest/1845/problem/A)
 
 [Fox And Snake](https://codeforces.com/problemset/problem/510/A)
+
+[Ordinary Numbers](https://codeforces.com/problemset/problem/1520/B)
