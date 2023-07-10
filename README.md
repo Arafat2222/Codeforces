@@ -6,3 +6,5 @@
  [Candies](https://codeforces.com/contest/1343/problem/A)
  
  [Forbidden Integer](https://codeforces.com/contest/1845/problem/A)
+
+[Fox And Snake](https://codeforces.com/problemset/problem/510/A)
