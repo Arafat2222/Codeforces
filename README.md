@@ -10,3 +10,5 @@
 [Fox And Snake](https://codeforces.com/problemset/problem/510/A)
 
 [Ordinary Numbers](https://codeforces.com/problemset/problem/1520/B)
+
+[Cheap Travel](https://codeforces.com/contest/1715/problem/A)
